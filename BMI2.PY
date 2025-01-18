@@ -59,7 +59,7 @@ result_label.pack(pady=10)
 labelsxx=tkinter.Label(text="")
 labelsxx.config(bg="#1a1a2e")
 #görsel
-image = Image.open("/Users/aliemirsertbas/Desktop/VSCO1prjct/personalPrjct/tkinter/ımage/new2.webp")
+image = Image.open("")
 new_width = 500
 new_height = 300
 resized_image = image.resize((new_width, new_height))
