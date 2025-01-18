@@ -77,7 +77,7 @@ Uygulama, kullanıcıdan aldığı kilo ve boy bilgilerini kullanarak bu formül
 
 Uygulamanın şık ve kullanıcı dostu arayüzü aşağıdaki gibidir:
 
-<p align="center"> <img src=""</p>
+<p align="center"> <img src="https://github.com/realmir1/BMIforGUI/blob/main/Ekran%20Resmi%202025-01-19%2000.38.01.png?raw=true" , width="400", height="800"</p>
 
 > **Not:** Yukarıdaki görsel, örnek bir kullanıcı arayüzü sunmak için eklenmiştir. Projeyi çalıştırmadan önce, kodda kullanılan görselin dosya yolunu doğru bir şekilde güncellemeyi unutmayın.
 
